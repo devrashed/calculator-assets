@@ -1,0 +1,396 @@
+.textalign{
+text-align: center;
+}
+
+
+/* Start gic CalCulator */
+
+ .textfield {
+   width: 100%;
+   padding: 9px;
+   margin:4px;
+   box-sizing: border-box;
+   padding-left:20px;
+   font-size: 23px;
+   border-radius: 7px;
+   }
+    
+     .Icon-inside {
+      position:relative;
+     }
+    
+     .Icon-inside i {
+      position:absolute;
+      lef:0;
+      top: 12px;
+      padding: 10px 10px;
+      color:#D2D6DC;
+      font-size:20px;
+     }
+    
+     .Icon-outside {
+      position:relative;
+     }
+    
+     .Icon-outside i {
+      position:absolute;
+      margin-left:-6px;
+      top:4px;
+      padding:17px 15px;
+      color:#30A3F1;
+      background:black;
+     }
+
+     .text-blue{
+        color: #2C5282;
+        font-size:19px;
+     }
+
+     .cgi_container{
+        width: 100%;
+        float: left;
+     }
+     .cgi_col_1{
+        width: 48%;
+        float:left;
+        margin:0 10px;
+      }
+     .cgi_col_2{
+        width: 48%;
+        float:left;
+          margin:0 10px;
+      } 
+
+      .headline{
+        border-top: 2px solid #FF7D00; 
+        background-color:#000;
+        padding:13px 0px;
+        text-align:center;
+        width:100%;
+        color:#fff;
+        font-size:24px;
+        margin-bottom: 15px;
+      }
+
+      .result{
+         border-top: 2px solid #FF7D00; 
+        background-color:#000;
+        padding:13px 0px;
+        text-align:center;
+        width:100%;
+        color:#fff;
+        font-size:24px;
+        margin-top: 15px;
+        } 
+     #duration {
+        margin-top: 24px;
+     }
+
+     .result_title{
+        color:#666F7F;
+        font-size:20px;
+        text-align: center;
+        font-weight: 600;
+        margin-top:15px;
+      }
+     .result_bg{
+        background-color:#FEEBC8;
+        color:#000;
+        font-size:30px;
+        font-weight:600;
+        text-align:center;
+        margin: 0 auto;
+        position: relative;
+        width: 250px;
+        padding: 19px 20px;
+        margin-top: 20px;
+     } 
+
+
+/* END gic CalCulator */
+
+
+/*====== Start Savings Accounts in Canada =======  */
+
+
+    .sb_wapper{
+     width:80%;
+     margin: 0 auto;
+     position: relative;
+     border: 2px solid #EDF2F7;
+   }
+   .clear{
+      clear: both;
+   }
+   .sb_grid{
+      width: 100%;
+      padding-top: 20px;
+      padding-bottom: 10px;
+   }
+   .sb_blance_name{
+      font-weight: 600px;
+      font-size: 20px;
+      padding-left:20px;
+      float:left;
+      margin-right:10px;
+      margin-top: 16px;
+   }
+   .sb_blance_input{
+       float:left;
+   }
+   .sb_top{
+       width: 100%;
+      background-color:#EDF2F7;
+      font-size: 20px;
+      font-weight: 500;
+      float: left;
+   }
+   .text-align{
+      float: left;
+      text-align:center;
+   }
+
+   .sb-top-1{
+      width: 40%;
+      padding-top:20px;
+      padding-bottom:20px;
+   }
+   .sb-top-2,
+   .sb-top-3,
+   .sb-top-4{
+      width: 19%;
+      padding-top:20px;
+      padding-bottom:20px;
+   }
+
+   .sb-grid{
+       width: 100%;
+      padding-top: 10px;
+      padding-bottom: 10px;   
+      float: left;
+      border-bottom: 2px solid #EDF2F7;
+      margin-top: 11px;
+   }
+
+   .sb-col-1{
+      width:25%;
+      padding-top:20px;
+      padding-bottom:20px;
+   }
+
+   .sb-col-2,
+   .sb-col-3,
+   .sb-col-4{
+      width: 20%;
+      padding-top:20px;
+      padding-bottom:20px;
+   }
+   .sb-col-5{
+      width: 15%;
+   }
+
+   .text-final{
+     font-size:25px;    
+     font-weight:600;
+   }
+
+   .imag{
+   width: auto;
+   height: 31px;
+   margin-top:32px;
+   }
+
+   .imag2{
+   width: 100px;
+   height: auto;
+   margin-top:32px;
+   }
+
+   .sb-grid span{
+      font-size:20px;
+      font-weight:500; 
+   }
+
+/*====== END Savings Accounts in Canada =======   */
+
+
+/*====== Start TFSA Contribution =======  */
+
+.tfsa_bg{
+   background-color:#EBF8FF; 
+   color: #000;
+   font-size: 30px;
+   font-weight: 600;
+   text-align: center;
+   margin: 0 auto;
+   margin-top: 0px;
+   position: relative;
+   max-width: 250px;
+   padding: 20px 20px 0px;
+   margin-top: 20px;
+   height:48px;
+ }
+
+  .tffield {
+      width: 100%;
+      padding: 9px;
+      margin:4px;
+      box-sizing: border-box;
+      padding-left:20px;
+      font-size: 23px;
+      border-radius: 7px;
+     }
+
+ /*====== END TFSA Contribution =======  */
+
+
+
+/*====== Start THE ROI CALCULATOR ======*/
+
+ .roi-container-1{
+   width:74%;
+   height:auto;
+   margin:0 auto;
+   position: relative;
+   padding: 20px; 
+}
+.contain-color{
+background-color: #000000;
+color: #fff;
+font-size: 26px;
+text-align: center;
+}
+.roi-container-2{
+   width:74%;
+   height:auto;
+   margin:0 auto;
+   position: relative;
+   padding: 10px 0px;   
+}
+
+/*.textfield {
+  width: 100%;
+  padding: 13px;
+  margin:4px;
+  box-sizing: border-box;
+  padding-left:10px;
+  font-size: 19px;
+ }*/
+
+.alignment{
+  float: left;
+}
+
+.roi-col-1,
+.roi-col-2{
+width:50%;
+float:left;
+}
+
+.roi-col-3{
+width:48%;
+float:left; 
+}
+.roi-col-4{
+width:48%;
+float:left; 
+}
+
+.sub-col-1{
+width:100%;
+float:left; 
+padding:5px;
+margin:5px 0px;   
+}
+
+.sub-col-1 span{
+font-size: 23px;
+font-weight: 500;
+color:#2C5282;
+margin-left:5px;  
+}
+
+   .roi-in{
+   width:93%;
+   height:auto;
+   float: left;
+   margin: 10px 28px;
+   text-align: center;
+   padding: 15px 0px;
+   box-shadow: -1px 0px 7px 8px rgba(217,217,217,0.68);
+-webkit-box-shadow: -1px 0px 7px 8px rgba(217,217,217,0.68);
+-moz-box-shadow: -1px 0px 7px 8px rgba(217,217,217,0.68);
+   }
+#roi_result{      
+      color: #ED8936;
+      font-size:80px;
+      font-weight:500;
+      padding: 35px 10px;
+   }
+
+  #roi-text{
+     width:100%;
+     text-align:center;
+     font-size:20px;
+     color:#2C5282;
+     font-weight: 600;
+  }
+  .sm-col-1{ 
+      width: 44%;
+      float: left;
+      padding: 10px 5px;
+      margin-left: 28px;
+      margin-top: 20px;
+      box-shadow: -1px 0px 7px 8px rgba(217,217,217,0.68);
+      -webkit-box-shadow: -1px 0px 7px 8px rgba(217,217,217,0.68);
+      -moz-box-shadow: -1px 0px 7px 8px rgba(217,217,217,0.68);
+      text-align: center;
+ }
+
+   .sm-col-1 span{
+      font-size:20px;
+      font-weight:600;
+  }
+
+  .sm-col-2{ 
+      width: 44%;
+      float: left;
+      padding: 10px 5px;
+      margin-left: 18px;
+      margin-top: 20px;
+      box-shadow: -1px 0px 7px 8px rgba(217,217,217,0.68);
+      -webkit-box-shadow: -1px 0px 7px 8px rgba(217,217,217,0.68);
+      -moz-box-shadow: -1px 0px 7px 8px rgba(217,217,217,0.68);
+      text-align: center;
+ }
+  .sm-col-2 span{
+      font-size:20px;
+      font-weight:600;
+  }
+ 
+  .ycalculat{
+   font-size:34px;
+   font-weight:600;
+   color:#2B6CB0;
+   padding: 20px 6px;
+   text-align: center;
+  }
+
+
+  .mcalculat{
+   font-size: 34px;
+   font-weight: 600;
+   color: #2B6CB0;
+   padding: 20px 6px;
+   text-align: center;
+  }
+
+  .calculat{
+   font-size: 34px;
+   font-weight: 600;
+   color: #2B6CB0;
+   padding: 20px 6px;
+   text-align: center;
+}
+
+  /*====== END THE ROI CALCULATOR ======*/
